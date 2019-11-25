@@ -10,7 +10,7 @@ This Project is built with React hooks, Styled-components which demonstrates an 
 
 ## Live Application URL
 
-### [![Deploy to AWS Amplify](https://oneclick.amplifyapp.com/button.svg)](https://master.d1v3c9rzdcvf8u.amplifyapp.com/)
+### [![Deploy to AWS Amplify](https://oneclick.amplifyapp.com/button.svg)](https://master.d2u3bncmb5k6b1.amplifyapp.com/)
 This URL describes an mini-Trello Board application which deployed in AWS Amplify. 
 
 ## Prerequisites
