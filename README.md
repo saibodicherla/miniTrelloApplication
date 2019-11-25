@@ -1,6 +1,6 @@
 # mini-Trello Board
 
-This Project is built with React hooks,Styled-components and nanoID which demonstrates an Users can create their task boards with several columns and move the tasks between them. Typically columns include task statuses: 
+This Project is built with React hooks, Styled-components which demonstrates an Users can create their task boards with several columns and move the tasks between them. Typically columns include task statuses: 
 
 1. Backlog, 
 2. ToDo, 
