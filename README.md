@@ -1,6 +1,6 @@
 # mini-Trello Board
 
-This Project is built with React hooks, Styled-components which demonstrates an Users can create their task boards with several columns and move the tasks between them. Typically columns include task statuses: 
+This Project is built with React hooks, Styled-components which demonstrates an Users can create their task boards with several columns and move the tasks between them. Typically columns include: 
 
 1. Backlog, 
 2. ToDo, 
@@ -36,9 +36,9 @@ Default port is : **`3000`**
 Open (http://localhost:3000) to view it in the browser.
 
 
-## Packages & Library User
+## Packages & Libraries
 
-This project utilize this external libraries
+In this project, I utilized this external Packages & libraries.
 
 ### `react@^16.11.0`
 
